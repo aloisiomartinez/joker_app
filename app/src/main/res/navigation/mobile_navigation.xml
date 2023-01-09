@@ -6,7 +6,7 @@
     android:id="@+id/mobile_navigation">
 
     <fragment android:id="@+id/nav_home"
-        android:name="com.aloisiomartinez.joker_app.HomeFragment"
+        android:name="com.aloisiomartinez.joker_app.view.HomeFragment"
         android:label="@string/menu_home"
         tools:layout="@layout/fragment_home"/>
 
